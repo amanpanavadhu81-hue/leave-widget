@@ -5,7 +5,7 @@
   const widgetHtml = `
 <div style="max-width:700px;margin:auto;margin-top:20px;font-family:Arial, sans-serif;">
   <h2 style="text-align:center;color:#2b5797;margin-bottom:20px;">
-      Test Table Loaded From MASTER (Snippet)
+Employee Leave Request 
   </h2>
   <table style="width:100%;border-collapse:collapse;box-shadow:0 0 10px rgba(0,0,0,0.1);">
       <thead>
@@ -27,7 +27,7 @@
               <td style="padding:10px;border:1px solid #ddd;">1</td>
           </tr>
           <tr>
-              <td style="padding:10px;border:1px solid #ddd;">Sara Ali</td>
+              <td style="padding:10px;border:1px solid #ddd;">Sara </td>
               <td style="padding:10px;border:1px solid #ddd;">Annual Leave</td>
               <td style="padding:10px;border:1px solid #ddd;">5</td>
           </tr>
